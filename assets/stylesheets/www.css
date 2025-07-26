@@ -1,0 +1,11 @@
+@import url("default.css"); 
+
+body {
+  font-family: sans-serif;
+  background-color: White;
+}
+
+#site {
+  width: 50%;
+  margin: 2em auto;
+}
